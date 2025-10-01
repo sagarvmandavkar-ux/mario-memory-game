@@ -9,10 +9,12 @@ document.querySelector(".score").textContent = score;
 fetch("./data/cards.json")
   .then((res) => res.json())
   .then((data) => {
+    console.log("Loaded cards:", data); // Add this line to see what's loading
     cards = [...data, ...data];
     shuffleCards();
     generateCards();
-  });
+  })
+  .catch(error => console.error("Error loading cards:", error)); // Add error handling
 
 function shuffleCards() {
   let currentIndex = cards.length,
