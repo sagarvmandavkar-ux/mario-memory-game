@@ -1,0 +1,38 @@
+[
+    {
+        "image": "../assets/mario.png",
+        "name": "mario"
+    },
+    {
+        "image": "../assets/luigi.png",
+        "name": "luigi"
+    },
+    {
+        "image": "../assets/kong.png",
+        "name": "kong"
+    },
+    {
+        "image": "../assets/peach.png",
+        "name": "peach"
+    },
+    {
+        "image": "../assets/goomba.png",
+        "name": "goomba"
+    },
+    {
+        "image": "../assets/bowser.png",
+        "name": "bowser"
+    },
+    {
+        "image": "../assets/toad.png",
+        "name": "toad"
+    },
+    {
+        "image": "../assets/yoshi.png",
+        "name": "yoshi"
+    },
+    {
+        "image": "../assets/boo.png",
+        "name": "boo"
+    }
+]
