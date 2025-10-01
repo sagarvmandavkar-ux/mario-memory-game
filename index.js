@@ -93,3 +93,4 @@ restart = ()  => {
   gridContainer.innerHTML = "";
   generateCards();
 }
+
