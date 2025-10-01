@@ -1,38 +1,38 @@
 [
     {
-        "image": "../assets/mario.png",
+        "image": "assets/mario.png",
         "name": "mario"
     },
     {
-        "image": "../assets/luigi.png",
+        "image": "assets/mario.png",
         "name": "luigi"
     },
     {
-        "image": "../assets/kong.png",
+        "image": "assets/mario.png",
         "name": "kong"
     },
     {
-        "image": "../assets/peach.png",
+        "image": "assets/mario.png",
         "name": "peach"
     },
     {
-        "image": "../assets/goomba.png",
+        "image": "assets/mario.png",
         "name": "goomba"
     },
     {
-        "image": "../assets/bowser.png",
+        "image": "assets/mario.png",
         "name": "bowser"
     },
     {
-        "image": "../assets/toad.png",
+        "image": "assets/mario.png",
         "name": "toad"
     },
     {
-        "image": "../assets/yoshi.png",
+        "image": "assets/mario.png",
         "name": "yoshi"
     },
     {
-        "image": "../assets/boo.png",
+        "image": "assets/mario.png",
         "name": "boo"
     }
 ]
